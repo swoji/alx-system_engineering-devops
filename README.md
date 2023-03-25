@@ -13,3 +13,8 @@ contained follows:
 3. [0x02. Shell, I/O Redirections and filters](./0x02-shell_redirections)
 4. [0x03. Shell, init files, variables and expansions](./0x03-shell_variables_expansions)
 5. [0x04. Loops, conditions and parsing](./0x04-loops_conditions_and_parsing)
+6. [0x05. Processes and signals](./0x05-processes_and_signals)
+7. [0x06. Regular, expressions](./0x06-regular_expressions)
+8. [0x07. Networking, basics](./0x07-networking_basics)
+9. [0x08. Networking, basics #0](./0x08-networking_basics_2)
+10. [0x09. Web, infrastructure, design](./0x09-web_infrastructure_design)
