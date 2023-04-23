@@ -18,3 +18,4 @@ contained follows:
 8. [0x07. Networking, basics](./0x07-networking_basics)
 9. [0x08. Networking, basics #0](./0x08-networking_basics_2)
 10. [0x09. Web, infrastructure, design](./0x09-web_infrastructure_design)
+11. [0x0B. SSH](./0x0B-ssh)
