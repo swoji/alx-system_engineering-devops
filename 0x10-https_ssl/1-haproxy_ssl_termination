@@ -46,5 +46,5 @@ frontend swoji-frontend-https
 
 backend swoji-backend
         balance roundrobin
-        server 169315-web-01 35.153.57.21:80 check
-        server 169315-web-02 100.27.13.9:80 check
+        server web-01 35.153.57.21:80 check
+        server web-02 100.27.13.9:80 check
